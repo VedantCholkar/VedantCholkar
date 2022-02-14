@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### I'm a Front-End Developer 🖌️
+---
 <details>
   <summary> About Me </summary>
   
