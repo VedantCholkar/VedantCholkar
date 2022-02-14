@@ -2,7 +2,14 @@
 #### I'm a Front-End Developer 🖌️
 ---
 <details>
-  <summary> About Me </summary>
+  <summary> Languages I know 🧠</summary>
+  
+  - HTML
+  - CSS
+</details>
+
+<details>
+  <summary> About Me 🧐</summary>
   
   - I am constantly learning 🤓
   - I keep a open mind about new topics 📖
@@ -10,7 +17,7 @@
 </details>
 
 <details>
-  <summary> Currently Learning </summary>
+  <summary> Currently Learning 🎯</summary>
   
   - Python
   - Javascript Frameworks
