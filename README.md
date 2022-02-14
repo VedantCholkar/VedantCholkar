@@ -1,16 +1,17 @@
 ### Hi there 👋
+#### I'm a Front-End Developer 🖌️
+<details>
+  <summary> About Me </summary>
+  
+  - I am constantly learning 🤓
+  - I keep a open mind about new topics 📖
+  - My favorite color is black 🏴
+</details>
 
-<!--
-**VedantCholkar/VedantCholkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary> Currently Learning </summary>
+  
+  - Python
+  - Javascript Frameworks
+  - Hacking / Cybersecurity
+</details>
