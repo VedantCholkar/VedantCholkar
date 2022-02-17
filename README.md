@@ -1,11 +1,12 @@
-### Hi there 👋
+![cover](https://github.com/VedantCholkar/VedantCholkar/blob/main/cover-image-named.jpg)
 #### I'm a Front-End Developer 🖌️
 ---
 <details>
-  <summary> Languages I know 🧠</summary>
+  <summary> Stuff I know 🧠</summary>
   
   - HTML
   - CSS
+  - Basic Enumeration and Exploits
 </details>
 
 <details>
