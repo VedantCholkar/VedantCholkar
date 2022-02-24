@@ -6,6 +6,7 @@
   
   - HTML
   - CSS
+  - git
   - Basic Enumeration and Exploits
 </details>
 
