@@ -4,24 +4,22 @@
 <details>
   <summary> Stuff I know 🧠</summary>
   
-  - HTML
-  - CSS
-  - Git
-  - Basic Enumeration and Exploits
+  - ```HTML```
+  - ```CSS```
+  - ```Git```
+  - ```Basic Enumeration and Exploits```
 </details>
-
 <details>
   <summary> About Me 🧐</summary>
   
-  - I am constantly learning 🤓
-  - I keep a open mind about new topics 📖
-  - My favorite color is black 🏴
+  - ```I am constantly learning 🤓```
+  - ```I keep a open mind about new topics 📖```
+  - ```My favorite color is black 🏴```
 </details>
-
 <details>
   <summary> Currently Learning 🎯</summary>
   
-  - Python
-  - Javascript Frameworks
-  - Hacking / Cybersecurity
+  - ```Python```
+  - ```Javascript Frameworks```
+  - ```Hacking / Cybersecurity```
 </details>
