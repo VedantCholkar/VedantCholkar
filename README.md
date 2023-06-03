@@ -1,13 +1,14 @@
 ![cover](https://github.com/VedantCholkar/VedantCholkar/blob/main/cover-image-named.jpg)
-#### I'm a Front-End Developer 🖌️
+#### I'm a Web Bug Bounty Hunter
 ---
 <details>
   <summary> Stuff I know 🧠</summary>
   
-  - ```HTML```
-  - ```CSS```
-  - ```Git```
-  - ```Basic Enumeration and Exploits```
+  - ```HTML, CSS, JS```
+  - ```Python```
+  - ```SQL```
+  - ```C```
+  - ```Enumerating and Exploiting Web Applications```
 </details>
 <details>
   <summary> About Me 🧐</summary>
@@ -19,11 +20,7 @@
 <details>
   <summary> Currently Learning 🎯</summary>
   
-  - ```Python```
-  - ```Javascript Frameworks```
-  - ```Hacking / Cybersecurity```
+  - ```Web Application Hacking```
 </details>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantCholkar)](https://github.com/anuraghazra/github-readme-stats)
