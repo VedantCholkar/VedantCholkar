@@ -1,6 +1,5 @@
 ![cover](https://github.com/VedantCholkar/VedantCholkar/blob/main/cover-image-named.jpg)
-#### I'm a Web Bug Bounty Hunter
----
+# I'm a Web Bug Bounty Hunter
 <details>
   <summary> Stuff I know 🧠</summary>
   
