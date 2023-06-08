@@ -23,4 +23,7 @@
   - ```Web Application Hacking```
 </details>
 
+### Certificates
+<img src="https://raw.githubusercontent.com/VedantCholkar/VedantCholkar/main/CS50x%20Certificate.png"  width="60%">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantCholkar)](https://github.com/anuraghazra/github-readme-stats)
