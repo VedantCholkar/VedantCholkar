@@ -9,7 +9,9 @@
   - ```C```
   - ```SQL Injection```
   - ```XSS```
+  - ```Social Engineering```
   - ```Graphic Designing```
+  - ```Social Media Management```
   - ```Photoshop```
   - ```All MS Applications```
 ### Certificates
